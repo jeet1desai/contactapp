@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/contactapp/static/css/main.bab0b925.chunk.css",
-    "main.js": "/contactapp/static/js/main.de13990c.chunk.js",
-    "main.js.map": "/contactapp/static/js/main.de13990c.chunk.js.map",
+    "main.js": "/contactapp/static/js/main.ead32af1.chunk.js",
+    "main.js.map": "/contactapp/static/js/main.ead32af1.chunk.js.map",
     "runtime-main.js": "/contactapp/static/js/runtime-main.7d801e1d.js",
     "runtime-main.js.map": "/contactapp/static/js/runtime-main.7d801e1d.js.map",
     "static/css/2.56001c6a.chunk.css": "/contactapp/static/css/2.56001c6a.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.56001c6a.chunk.css",
     "static/js/2.56dd6d77.chunk.js",
     "static/css/main.bab0b925.chunk.css",
-    "static/js/main.de13990c.chunk.js"
+    "static/js/main.ead32af1.chunk.js"
   ]
 }
